@@ -253,12 +253,12 @@ header{
         background-color: #fff;
         transition: margin-top .3192s cubic-bezier(0.04, 0.04, 0.12, 0.96);
     }
-    .line-top{
+/*     .line-top{
         margin-top: 7px;
     }
     .line-bottom{
         margin-top: -.7rem;
-    }
+    } */
     .active .line-top{
         margin-top: 0;
         transform: rotate(45deg);
