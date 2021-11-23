@@ -254,7 +254,7 @@ header{
         transition: margin-top .3192s cubic-bezier(0.04, 0.04, 0.12, 0.96);
     }
     .line-top{
-        margin-top: 1px;
+        margin-top: 5px;
     }
     .line-bottom{
         margin-top: -.75rem;
